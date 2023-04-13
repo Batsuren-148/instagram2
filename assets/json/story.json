@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "username": "o._batsuren",
+        "profile": "https://instagram.fuln1-2.fna.fbcdn.net/v/t51.2885-19/339710057_718072183400764_3232607712429125979_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fuln1-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=nwxfw7rUpo0AX9ckyD9&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCppWhLQ8I5Jx3sDYQmUxWaLdgV1X4bnE9Zj8TcWVycNg&oe=6436ED30&_nc_sid=8fd12b",
+        "postImg": "https://images.unsplash.com/photo-1558486012-817176f84c6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=370&q=80",
+        "likes": 340,
+        "description": "life is simple.",
+        "comments": 3,
+        "publishedDate": "16 hours"
+    },
+    {
+        "id": 2,
+        "username": "o._batsuren",
+        "profile": "https://instagram.fuln1-2.fna.fbcdn.net/v/t51.2885-19/339710057_718072183400764_3232607712429125979_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fuln1-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=nwxfw7rUpo0AX9ckyD9&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCppWhLQ8I5Jx3sDYQmUxWaLdgV1X4bnE9Zj8TcWVycNg&oe=6436ED30&_nc_sid=8fd12b",
+        "postImg": "https://images.unsplash.com/photo-1558486012-817176f84c6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=370&q=80",
+        "likes": 40,
+        "description": "life is simple.",
+        "comments": 6,
+        "publishedDate": "16 hours"
+    },
+    {
+        "id": 3,
+        "username": "o._batsuren",
+        "profile": "https://instagram.fuln1-2.fna.fbcdn.net/v/t51.2885-19/339710057_718072183400764_3232607712429125979_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fuln1-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=nwxfw7rUpo0AX9ckyD9&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCppWhLQ8I5Jx3sDYQmUxWaLdgV1X4bnE9Zj8TcWVycNg&oe=6436ED30&_nc_sid=8fd12b",
+        "postImg": "https://images.unsplash.com/photo-1558486012-817176f84c6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=370&q=80",
+        "likes": 30,
+        "description": "life is simple.",
+        "comments": 36,
+        "publishedDate": "16 hours"
+    }
+]
